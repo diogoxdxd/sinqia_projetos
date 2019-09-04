@@ -1,0 +1,7 @@
+C:\Users\ta0511\Documents\Sinqia_AspNet\Modulo06_FrontEnd_Online\Projeto01_ServicosWCF\Projeto01_ServicosWCF\bin\Projeto01_ServicosWCF.dll.config
+C:\Users\ta0511\Documents\Sinqia_AspNet\Modulo06_FrontEnd_Online\Projeto01_ServicosWCF\Projeto01_ServicosWCF\bin\Projeto01_ServicosWCF.dll
+C:\Users\ta0511\Documents\Sinqia_AspNet\Modulo06_FrontEnd_Online\Projeto01_ServicosWCF\Projeto01_ServicosWCF\bin\Projeto01_ServicosWCF.pdb
+C:\Users\ta0511\Documents\Sinqia_AspNet\Modulo06_FrontEnd_Online\Projeto01_ServicosWCF\Projeto01_ServicosWCF\obj\Debug\Projeto01_ServicosWCF.csprojAssemblyReference.cache
+C:\Users\ta0511\Documents\Sinqia_AspNet\Modulo06_FrontEnd_Online\Projeto01_ServicosWCF\Projeto01_ServicosWCF\obj\Debug\Projeto01_ServicosWCF.csproj.CoreCompileInputs.cache
+C:\Users\ta0511\Documents\Sinqia_AspNet\Modulo06_FrontEnd_Online\Projeto01_ServicosWCF\Projeto01_ServicosWCF\obj\Debug\Projeto01_ServicosWCF.dll
+C:\Users\ta0511\Documents\Sinqia_AspNet\Modulo06_FrontEnd_Online\Projeto01_ServicosWCF\Projeto01_ServicosWCF\obj\Debug\Projeto01_ServicosWCF.pdb

@@ -1,0 +1,11 @@
+﻿#cabecalho /*O que começa com "#" é um id*/ {
+    display: inline;
+}
+
+@media screen and (max-width: 768px){
+    #cabecalho {
+        display: none;
+    }
+}
+
+
